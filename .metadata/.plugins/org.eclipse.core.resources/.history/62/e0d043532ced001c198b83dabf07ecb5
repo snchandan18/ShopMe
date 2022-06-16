@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Shopme Admin Control Panel</title>
+</head>
+<body>
+    <h1>Welcome to Shopme Admin Control Panel</h1>
+    <h2>Narendra</h2>
+    <form action="/action_page.php">
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname" value="John"><br>
+</body>
+</html>
